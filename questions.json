@@ -1,0 +1,3445 @@
+[
+  {
+    "id": 1,
+    "cau_hoi": "Mô hình xoắn ốc (Spiral Model) có sử dụng các giai đoạn trong mô hình thác nước trong quá trình phát triển phần mềm không ?",
+    "options": [
+      "A. Có",
+      "B. Không",
+      "C.",
+      "D."
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 2,
+    "cau_hoi": "Giai đoạn nào của mô hình thác nước được xem là quan trọng nhất ?",
+    "options": [
+      "A. Khảo sát",
+      "B. Thiết kế",
+      "C. Phân tích",
+      "D. Thực hiện"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 3,
+    "cau_hoi": "Mô hình xoắn ốc khác mô hình thác nước ở điểm nào?",
+    "options": [
+      "A. Cho phép lặp lại các giai đoạn trước",
+      "B. Không yêu cầu phân tích hệ thống",
+      "C. Không sử dụng được cho phát triển các hệ thống lớn",
+      "D. Không tiếp nhận đánh giá từ khách hàng"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 4,
+    "cau_hoi": "Mô hình phát triển hệ thống thác nước còn được gọi là gì?",
+    "options": [
+      "A. Mô hình phân cấp",
+      "B. Mô hình lập trình",
+      "C. Mô hình vòng đời cổ điển",
+      "D. Mô hình phân tích dữ liệu"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 5,
+    "cau_hoi": "Hệ thống ERP có nhiệm vụ chính là gì?",
+    "options": [
+      "A. Quản lý tích hợp các phần mềm nghiệp vụ khác nhau",
+      "B. Chỉ quản lý tài chính doanh nghiệp",
+      "C. Chỉ quản lý nhân lực trong doanh nghiệp",
+      "D. Chỉ quản lý tài sản của doanh nghiệp"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 6,
+    "cau_hoi": "ERP thường hỗ trợ nguyên tắc",
+    "options": [
+      "A. Tăng trùng lặp dữ liệu",
+      "B. Một lần nhập dữ liệu - dùng cho toàn hệ thống",
+      "C. Nhập liệu lại nhiều lần",
+      "D. Chỉ dùng cho bộ phận kế toán"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 7,
+    "cau_hoi": "Trong ERP, module HRM dùng để",
+    "options": [
+      "A. Quản lý nhân sự và tiền lương",
+      "B. Quản lý bán hàng",
+      "C. Quản lý sản xuất",
+      "D. Quản lý tài sản cố định"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 8,
+    "cau_hoi": "ERP giúp hạn chế tình trạng",
+    "options": [
+      "A. Mỗi bộ phận dùng một phần mềm khác nhau",
+      "B. Dữ liệu tập trung và nhất quán",
+      "C. Tích hợp dữ liệu",
+      "D. Tốc độ xử lý cao"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 9,
+    "cau_hoi": "Khi triển khai ERP, doanh nghiệp thường cần",
+    "options": [
+      "A. Cải tiến hoặc chuẩn hóa lại quy trình nghiệp vụ",
+      "B. Dừng mọi hoạt động kinh doanh",
+      "C. Thuê thêm lao động phổ thông",
+      "D. Loại bỏ bộ phận IT"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 10,
+    "cau_hoi": "Đặc điểm quan trọng nhất của hệ thống ERP là",
+    "options": [
+      "A. Hoạt động độc lập theo từng bộ phận",
+      "B. Tích hợp dữ liệu và quy trình trên toàn doanh nghiệp",
+      "C. Không cần cơ sở dữ liệu",
+      "D. Chỉ phục vụ phòng kế toán"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 11,
+    "cau_hoi": "ERP là viết tắt của cụm từ nào?",
+    "options": [
+      "A. Enterprise Resource Planning",
+      "B. Enterprise Reporting Program",
+      "C. Effective Resource Processing",
+      "D. Electronic Resource Platform"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 12,
+    "cau_hoi": "Đặc điểm nào sau đây là đặc trưng của hệ thống thông tin?",
+    "options": [
+      "A. Mối liên hệ giữa các phần tử là mối liên hệ thông tin",
+      "B. Mục tiêu của hệ thống thông tin là cung cấp thông tin cho các mục đích khác nhau",
+      "C. Các phần tử của hệ thống là các phần tử xử lý thông tin",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 13,
+    "cau_hoi": "Hệ thống nào dưới đây KHÔNG phải là hệ thống thông tin quản lý?",
+    "options": [
+      "A. Hệ thống thông tin quản lý nhân sự",
+      "B. Hệ thống thông tin kế toán",
+      "C. Hệ thống thông tin quản lý khách hàng",
+      "D. Hệ thống điều khiển bay"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 14,
+    "cau_hoi": "Mục tiêu của bảo trì phần mềm là gì ?",
+    "options": [
+      "A. Sửa lỗi phần mềm",
+      "B. Cải tiến chức năng",
+      "C. Tối ưu hiệu suất",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 15,
+    "cau_hoi": "Nguyên nhân dẫn đến bảo trì phần mềm là gì ?",
+    "options": [
+      "A. Phần mềm bị lỗi khi gặp phải tình huống mới",
+      "B. Phần mềm không đáp ứng yêu cầu mới của hệ thống",
+      "C. Mở rộng các chức năng của phần mềm",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 16,
+    "cau_hoi": "Mục đích của kiểm chứng (Checking) phần mềm là gì ?",
+    "options": [
+      "A. Phát hiện lỗi giai đoạn khảo sát phần mềm",
+      "B. Phát hiện lỗi phần mềm",
+      "C. Phát hiện lỗi trong các thành phần (mô đun) bên trong của phần mềm",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 17,
+    "cau_hoi": "Nguyên nhân gây ra lỗi của phần mềm ?",
+    "options": [
+      "A. Do lỗi thiết kế hệ thống",
+      "B. Do lỗi nhập liệu",
+      "C. Do phần mềm bị thoái hóa",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 18,
+    "cau_hoi": "Mục đích của thử nghiệm (Testing) phần mềm là gì ?",
+    "options": [
+      "A. Phát hiện lỗi giai đoạn khảo sát hệ thống",
+      "B. Phát hiện lỗi phần mềm",
+      "C. Phát hiện lỗi trong các thành phần (mô đun) của phần mềm",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 19,
+    "cau_hoi": "Mục đích của thử nghiệm (Testing) phần mềm là gì ?",
+    "options": [
+      "A. Phát hiện lỗi giai đoạn thiết kế hệ thống",
+      "B. Phát hiện lỗi phần mềm",
+      "C. Phát hiện lỗi giai đoạn phân tích hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 20,
+    "cau_hoi": "Kiểm chứng (Checking) phần mềm là gì ?",
+    "options": [
+      "A. Kiểm tra phần mềm có thỏa mãn các yêu cầu nghiệp vụ mà không cần phân tích cấu trúc bên trong phần mềm",
+      "B. Kiểm tra phần mềm có thỏa mãn các yêu cầu nghiệp vụ thông qua phân tích cấu trúc bên trong phần mềm",
+      "C. Kiểm tra phần mềm có khả năng hoạt động trên máy tính",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 21,
+    "cau_hoi": "Thử nghiệm (Testing) phần mềm là gì ?",
+    "options": [
+      "A. Kiểm tra phần mềm có thỏa mãn các yêu cầu nghiệp vụ mà không cần phân tích cấu trúc bên trong phần mềm",
+      "B. Kiểm tra phần mềm có thỏa mãn các yêu cầu nghiệp vụ thông qua phân tích cấu trúc bên trong phần mềm",
+      "C. Kiểm tra phần mềm có khả năng hoạt động trên máy tính",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 22,
+    "cau_hoi": "Phương pháp phát triển phần mềm nào theo chu trình ?",
+    "options": [
+      "A. Mô hình vòng đời cổ điển",
+      "B. Mô hình xoắn ốc",
+      "C.",
+      "D."
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 23,
+    "cau_hoi": "Phương pháp phát triển phần mềm nào theo trình tự tuyến tính ?",
+    "options": [
+      "A. Mô hình vòng đời cổ điển",
+      "B. Mô hình xoắn ốc",
+      "C.",
+      "D."
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 24,
+    "cau_hoi": "Nên ứng dụng mô hình vòng đời cổ điển trong trường hợp nào ?",
+    "options": [
+      "A. Dự án có độ phức tạp cao",
+      "B. Dự án có quy mô nhỏ và có yêu cầu rõ ràng",
+      "C. Người sử dụng không hiểu rõ nhu cầu của họ",
+      "D. Dự án có độ rủi ro cao"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 25,
+    "cau_hoi": "Nên ứng dụng mô hình vòng đời cổ điển trong trường hợp nào ?",
+    "options": [
+      "A. Các yêu cầu về hệ thống là rõ ràng",
+      "B. Dự án có quy mô lớn",
+      "C. Người sử dụng không hiểu rõ nhu cầu của họ",
+      "D. Dự án có độ rủi ro cao"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 26,
+    "cau_hoi": "Đối tượng nào là thành phần của HTTT quản lý ứng dụng tin học?",
+    "options": [
+      "A. Con người",
+      "B. Phần mềm",
+      "C. Dữ liệu",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 27,
+    "cau_hoi": "Đối tượng nào là thành phần của HTTT quản lý ứng dụng tin học ?",
+    "options": [
+      "A. Con người",
+      "B. Phần mềm",
+      "C. Thiết bị tin học",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 28,
+    "cau_hoi": "Đâu không phải là chức năng của HTTT quản lý",
+    "options": [
+      "A. Thu thập dữ liệu nghiệp vụ",
+      "B. Lưu trữ dữ liệu nghiệp vụ",
+      "C. Xử lý dữ liệu nghiệp vụ",
+      "D. Ra các quyết định điều hành tổ chức, doanh nghiệp"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 29,
+    "cau_hoi": "Đặc điểm của HTTT quản lý là",
+    "options": [
+      "A. Ứng dụng trong việc quản lý các tổ chức, doanh nghiệp",
+      "B. Dựa trên ứng dụng công nghệ thông tin",
+      "C. Cung cấp thông tin cho nhiều mục đích khác nhau",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 30,
+    "cau_hoi": "Đặc điểm của HTTT quản lý là",
+    "options": [
+      "A. Cung cấp thông tin phục vụ công tác quản lý",
+      "B. Dựa trên ứng dụng công nghệ thông tin",
+      "C. Cung cấp thông tin cho nhiều mục đích khác nhau",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 31,
+    "cau_hoi": "Đặc điểm của HTTT là",
+    "options": [
+      "A. Các thành phần của hệ thống có chức năng xử lý thông tin",
+      "B. Mối quan hệ giữa các thành phần là mối quan hệ thông tin",
+      "C. Cung cấp thông tin cho nhiều mục đích khác nhau",
+      "D. Tất cả phương án"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 32,
+    "cau_hoi": "Hệ thống thông tin quản lý là gì ?",
+    "options": [
+      "A. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin nhằm đạt đến mục tiêu xác định",
+      "B. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin cho quá trình quản lý, điều hành tổ chức, doanh nghiệp.",
+      "C. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin kế toán cho quá trình quản lý tổ chức, doanh nghiệp.",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 33,
+    "cau_hoi": "Hệ thống thông tin là gì ?",
+    "options": [
+      "A. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin cho các mục đích khác nhau",
+      "B. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin cho quá trình quản lý tổ chức, doanh nghiệp.",
+      "C. Là hệ thống có chức năng thu thập, lưu trữ, xử lý thông tin kế toán cho quá trình quản lý tổ chức, doanh nghiệp.",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 34,
+    "cau_hoi": "Tính điều khiển của hệ thống là gì ?",
+    "options": [
+      "A. Là tập quy tắc quy định hoạt động của hệ thống",
+      "B. Mục tiêu hướng đến của hệ thống",
+      "C. Mối tương quan giữa các phần tử của hệ thống",
+      "D. Tất cả phương án"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 35,
+    "cau_hoi": "Mục đích của nghiên cứu hệ thống",
+    "options": [
+      "A. Hiểu hệ thống",
+      "B. Cải tiến hệ thống",
+      "C. Phát triển hệ thống",
+      "D. Tất cả phương án"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 36,
+    "cau_hoi": "Nội dung nào sau đây không phải là tính chất của hệ thống",
+    "options": [
+      "A. Tính nhất thể",
+      "B. Tính có thứ bậc",
+      "C. Tính điều khiển",
+      "D. Tính không có mục tiêu"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 37,
+    "cau_hoi": "Nội dung nào sau đây không phải là tính chất của hệ thống",
+    "options": [
+      "A. Tính nhất thể",
+      "B. Tính có thứ bậc",
+      "C. Tính điều khiển",
+      "D. Tính độc lập giữa hệ thống và môi trường"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 38,
+    "cau_hoi": "Nội dung nào sau đây không phải là tính chất của hệ thống",
+    "options": [
+      "A. Tính nhất thể",
+      "B. Tính có thứ bậc",
+      "C. Tính điều khiển",
+      "D. Tính độc lập giữa các phần tử của hệ thống"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 39,
+    "cau_hoi": "Tính tổ chức có thứ bậc của hệ thống thông tin quản lý nghĩa là gì?",
+    "options": [
+      "A. Hệ thống có thể thay đổi cấu trúc",
+      "B. Hệ thống có nhiều cấp độ phân cấp",
+      "C. Hệ thống không có các mối liên hệ bên trong",
+      "D. Hệ thống không liên quan đến các hệ thống khác"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 40,
+    "cau_hoi": "Đặc điểm nào sau đây là đặc trưng của hệ thống thông tin?",
+    "options": [
+      "A. Mối liên hệ giữa các phần tử là mối liên hệ thông tin",
+      "B. Các phần tử trong hệ thống không liên quan đến nhau",
+      "C. Hệ thống không có cấu trúc rõ ràng",
+      "D. Các phần tử của hệ thống không thay đổi theo thời gian"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 41,
+    "cau_hoi": "Tại sao mô hình xoắn ốc tốn kém chi phí?",
+    "options": [
+      "A. Vì không lập kế hoạch",
+      "B. Vì thường xuyên thử nghiệm và phân tích rủi ro",
+      "C. Vì không có thiết kế",
+      "D. Vì không có vòng lặp"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 42,
+    "cau_hoi": "Mô hình xoắn ốc phù hợp với dự án",
+    "options": [
+      "A. Có yêu cầu thay đổi liên tục",
+      "B. Rất nhỏ",
+      "C. Không yêu cầu phân tích",
+      "D. Không chấp nhận rủi ro"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 43,
+    "cau_hoi": "Mô hình xoắn ốc không gồm hoạt động nào sau đây trong mỗi vòng lặp?",
+    "options": [
+      "A. Thiết kế hệ thống",
+      "B. Phân tích hệ thống",
+      "C. Xác định mục tiêu",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 44,
+    "cau_hoi": "Mô hình xoắn ốc không gồm hoạt động nào sau đây trong mỗi vòng lặp?",
+    "options": [
+      "A. Xác định mục tiêu",
+      "B. Phân tích rủi ro",
+      "C. Phát triển hệ thống và kiểm thử",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 45,
+    "cau_hoi": "Giai đoạn đầu tiên trong mỗi vòng xoắn ốc là",
+    "options": [
+      "A. Phát triển sản phẩm",
+      "B. Đánh giá rủi ro",
+      "C. Xác định mục tiêu và yêu cầu",
+      "D. Kiểm thử"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 46,
+    "cau_hoi": "Mô hình xoắn ốc (Spiral Model) do ai đề xuất?",
+    "options": [
+      "A. Barry Boehm",
+      "B. Fred Brooks",
+      "C. Pressman",
+      "D. Royce"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 47,
+    "cau_hoi": "Mô hình thác nước còn được gọi là gì?",
+    "options": [
+      "A. Mô hình phân cấp",
+      "B. Mô hình lập trình",
+      "C. Mô hình vòng đời cổ điển",
+      "D. Mô hình phân tích dữ liệu"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 48,
+    "cau_hoi": "Bước lập trình (Coding) được thực hiện sau khi nào?",
+    "options": [
+      "A. Sau kiểm thử",
+      "B. Sau phân tích",
+      "C. Sau thiết kế",
+      "D. Sau triển khai"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 49,
+    "cau_hoi": "Mô hình thác nước yêu cầu",
+    "options": [
+      "A. Quay lại bước trước dễ dàng",
+      "B. Quy trình nghiêm ngặt",
+      "C. Không cần người dùng tham gia",
+      "D. Không cần tài liệu phân tích yêu cầu"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 50,
+    "cau_hoi": "Giai đoạn triển khai (Deployment) diễn ra",
+    "options": [
+      "A. Sau kiểm thử",
+      "B. Trước phân tích",
+      "C. Trước thiết kế",
+      "D. Trước kiểm thử"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 51,
+    "cau_hoi": "Mô hình thác nước phù hợp nhất khi",
+    "options": [
+      "A. Yêu cầu hay thay đổi",
+      "B. Hệ thống rất lớn và phức tạp",
+      "C. Yêu cầu rõ ràng, ổn định",
+      "D. Cần nguyên mẫu (prototype) nhanh"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 52,
+    "cau_hoi": "Giai đoạn kiểm thử được thực hiện sau giai đoạn nào",
+    "options": [
+      "A. Triển khai",
+      "B. Phân tích yêu cầu",
+      "C. Thiết kế",
+      "D. Mã hóa"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 53,
+    "cau_hoi": "Điểm đặc trưng của mô hình thác nước là",
+    "options": [
+      "A. Các giai đoạn chồng lắp nhau",
+      "B. Chỉ tập trung vào lập trình",
+      "C. Chuyển sang bước tiếp theo khi bước trước hoàn thành",
+      "D. Không cần tài liệu hóa"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 54,
+    "cau_hoi": "Giai đoạn đầu tiên trong mô hình thác nước là gì?",
+    "options": [
+      "A. Thiết kế",
+      "B. Phân tích yêu cầu",
+      "C. Mã hóa (Coding)",
+      "D. Kiểm thử"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 55,
+    "cau_hoi": "Mô hình thác nước là gì?",
+    "options": [
+      "A. Mô hình phát triển phần mềm không có tài liệu",
+      "B. Mô hình phát triển phần mềm tuyến tính tuần tự",
+      "C. Mô hình phát triển phần mềm xoay vòng",
+      "D. Mô hình tập trung vào thử nghiệm trước"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 56,
+    "cau_hoi": "Giai đoạn nào trong mô hình phát triển hệ thống là để xác định nhu cầu về hệ thống mới?",
+    "options": [
+      "A. Khảo sát",
+      "B. Phân tích",
+      "C. Thiết kế",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 57,
+    "cau_hoi": "Hệ thống là gì ?",
+    "options": [
+      "A. Một tập hợp các phần tử độc lập với nhau, cùng hoạt động hướng đến mục đích chung",
+      "B. Chỉ có một phần tử hoạt động có hướng đến mục đích",
+      "C. Một tập hợp các phần tử độc lập với nhau, tạo thành một thể thống nhất, cùng hoạt động hướng đến mục đích chung",
+      "D. Một tập hợp các phần tử có mối quan hệ với nhau, tạo thành một thể thống nhất, cùng hoạt động hướng đến mục đích chung"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 72,
+    "cau_hoi": "Biểu đồ triển khai (Package Diagram) thường được tạo lập trong giai đoạn nào của phát triển hệ thống?",
+    "options": [
+      "A. Thiết kế hệ thống",
+      "B. Lập trình hệ thống",
+      "C. Bảo trì hệ thống",
+      "D. Phân tích hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 73,
+    "cau_hoi": "Biểu đồ thành phần (Component Diagram) thường được tạo lập trong giai đoạn nào của phát triển hệ thống?",
+    "options": [
+      "A. Thiết kế hệ thống",
+      "B. Lập trình hệ thống",
+      "C. Bảo trì hệ thống",
+      "D. Phân tích hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 74,
+    "cau_hoi": "Biểu đồ nào dùng để biểu diễn các thành phần của phần mềm và mối quan hệ giữa chúng?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ triển khai (Deployment Diagram)",
+      "D. Biểu đồ thành phần (Component Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 75,
+    "cau_hoi": "Biểu đồ nào dùng để biểu diễn mối quan hệ vật lý giữa phần mềm và các thành phần phần cứng trong một hệ thống?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ triển khai (Deployment Diagram)",
+      "D. Biểu đồ cộng tác (Collaboration Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 76,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào sau đây là đúng ?",
+    "options": [
+      "A. Các mục cập nhật thông tin chung (ít thay đổi giá trị cập nhật) thường được đặt ở vị trí bên dưới",
+      "B. Nút lệnh xóa dữ liệu và nút lệnh thêm mới nên đặt cạnh nhau",
+      "C. Nút lệnh xóa dữ liệu và nút lệnh sửa đổi không nên đặt cạnh nhau",
+      "D. Cả ba phương án trên đều đúng"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 77,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào về Radio button sau đây là đúng ?",
+    "options": [
+      "A. Radio Button chỉ cho phép lựa chọn một trường hợp trong danh sách các lựa chọn",
+      "B. Radio Button cho phép nhiều lựa chọn đồng thời trong danh sách các lựa chọn",
+      "C. Radio Button cho phép không chọn trường hợp nào trong danh sách các lựa chọn",
+      "D. Cả ba phương án trên đều đúng"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 78,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào về list box và combo box sau đây là sai?",
+    "options": [
+      "A. Combo Box chỉ hiển thị các mục dữ liệu khi người dùng click chuột vào nó",
+      "B. List box chỉ hiển thị các mục dữ liệu khi người dùng click chuột vào nó",
+      "C. Trong mỗi lựa chọn, combo box chỉ cho phép chọn một mục dữ liệu",
+      "D. List box cho phép chọn đồng thời nhiều mục dữ liệu"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 79,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào về list box và combo box sau đây là SAI?",
+    "options": [
+      "A. Combo box luôn hiển thị các mục dữ liệu",
+      "B. List box luôn hiển thị các mục dữ liệu",
+      "C. Trong mỗi lựa chọn, combo box cho phép chọn một mục dữ liệu",
+      "D. List box cho phép chọn đồng thời nhiều mục dữ liệu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 80,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào về list box và combo box sau đây là SAI ?",
+    "options": [
+      "A. List box luôn hiển thị các mục dữ liệu",
+      "B. Combo box chỉ hiển thị các mục dữ liệu khi người dùng click chuột vào nó",
+      "C. List box cho phép chọn đồng thời nhiều mục dữ liệu",
+      "D. Combo box cho phép chọn đồng thời nhiều mục dữ liệu"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 81,
+    "cau_hoi": "Trong thiết kế biểu mẫu (Form), khẳng định nào về list box và combo box sau đây là SAI?",
+    "options": [
+      "A. List box luôn hiển thị các mục dữ liệu",
+      "B. Combo box chỉ hiển thị các mục dữ liệu khi người dùng click chuột vào nó",
+      "C. Trong mỗi lựa chọn, combo box cho phép chọn một mục dữ liệu",
+      "D. Trong mỗi lựa chọn, list box có thể không chọn mục dữ liệu nào cả"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 82,
+    "cau_hoi": "Khẳng định nào sau đây là sai ?",
+    "options": [
+      "A. Giao diện người dùng là thành phần trung gian giúp cho máy tính và con người giao tiếp được với nhau",
+      "B. Giao diện người dùng là phương tiện chỉ để cập nhật dữ liệu vào hệ thống máy tính",
+      "C. Giao diện người dùng là phương tiện chỉ để tiếp nhận thông tin đầu ra từ máy tính",
+      "D. Giao diện người dùng đồ họa có thể bao gồm màn hình, con chuột, bàn phím máy tính"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 83,
+    "cau_hoi": "Các yêu cầu thiết kế giao diện người dùng là",
+    "options": [
+      "A. Đơn giản, dễ hiểu",
+      "B. Dễ học, Dễ sử dụng",
+      "C. Thân thiện",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 84,
+    "cau_hoi": "Giao diện người dùng máy tính nào có tính tương tác mạnh nhất ?",
+    "options": [
+      "A. Giao diện dòng lệnh (Command Line Interface)",
+      "B. Giao diện đồ họa (Graphical User Interface)",
+      "C. Giao diện cảm ứng (Touch User Interface)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 85,
+    "cau_hoi": "Loại giao diện người dùng nào ít trực quan nhất và thường ít sử dụng ?",
+    "options": [
+      "A. Giao diện dòng lệnh (Command Line Interface)",
+      "B. Giao diện đồ họa (Graphical User Interface)",
+      "C. Giao diện cảm ứng (Touch User Interface)",
+      "D. Giao diện người dùng bằng giọng nói (Voice User Interface)"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 86,
+    "cau_hoi": "Đâu là giao diện người dùng máy tính là gì ?",
+    "options": [
+      "A. Giao diện dòng lệnh (Command Line Interface)",
+      "B. Giao diện đồ họa (Graphical User Interface)",
+      "C. Giao diện cảm ứng (Touch User Interface)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 87,
+    "cau_hoi": "Giao diện người dùng máy tính là gì ?",
+    "options": [
+      "A. Là cách mà người dùng tương tác với máy tính",
+      "B. Là màn hình máy tính với người dùng tương tác với máy tính",
+      "C. Là thiết bị tương tác hoặc trao đổi thông tin giữa người dùng với máy tính",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 88,
+    "cau_hoi": "Những đối tượng nào sau đây là thành phần của giao diện người dùng máy tính",
+    "options": [
+      "A. Thực đơn (Menu), nút lệnh (command button), hộp thoại (textbox), ..",
+      "B. Chuột",
+      "C. Bàn phím",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 89,
+    "cau_hoi": "Đâu là nội dung đặc tả thiết kế các phương thức của các lớp",
+    "options": [
+      "A. Dữ liệu đầu vào",
+      "B. Dữ liệu đầu ra",
+      "C. Thuật toán",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 90,
+    "cau_hoi": "Trong điều kiện phải sử hệ quản trị cơ sở dữ mô tả tài liệu quan hệ dưới dạng bảng dữ liệu, mô hình quan hệ dữ liệu quan hệ được thiết kế căn cứ vào ?",
+    "options": [
+      "A. Biểu đồ tuần tự",
+      "B. Biểu đồ lớp",
+      "C. Biểu đồ hoạt động",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 91,
+    "cau_hoi": "Trong điều kiện phải sử hệ quản trị cơ sở dữ mô tả tài liệu quan hệ dưới dạng bảng dữ liệu, để thiết kế mô hình quan hệ dữ liệu quan hệ, mỗi bảng dữ liệu được xác định như thế nào ?",
+    "options": [
+      "A. Dựa vào mỗi hồ sơ nghiệp vụ tương ứng",
+      "B. Dựa vào danh sách các thuộc tính của mỗi lớp",
+      "C. Dựa vào biểu đồ hoạt động",
+      "D. Dựa vào yêu cầu nghiệp vụ"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 92,
+    "cau_hoi": "Đâu không phải là hoạt động thiết kế hệ thống ?",
+    "options": [
+      "A. Mô tả chi tiết về kiến trúc hệ thống",
+      "B. Mô tả chi tiết về các thành phần của hệ thống",
+      "C. Xác định các yêu cầu nghiệp vụ",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 93,
+    "cau_hoi": "Đâu là hoạt động thiết kế hệ thống ?",
+    "options": [
+      "A. Mô tả chi tiết về kiến trúc hệ thống",
+      "B. Mô tả chi tiết về các mô đun của hệ thống",
+      "C. Mô tả chi tiết về cơ sở dữ liệu của hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 94,
+    "cau_hoi": "Phát biểu nào sau đây là đúng ?",
+    "options": [
+      "A. Thiết kế hệ thống là để xác định hệ thống làm gì",
+      "B. Thiết kế hệ thống là để xác định hệ thống làm như thế nào",
+      "C. Thiết kế hệ thống là để xác định các mô đun của hệ thống",
+      "D. Nhằm xác định các dữ liệu của hệ thống"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 95,
+    "cau_hoi": "Trong biểu đồ tuần tự (Sequence Diagram), thông điệp nào thể hiện trả lời lại sau khi có yêu cầu ?",
+    "options": [
+      "A. Thông điệp không đồng bộ (Asynchronous Message)",
+      "B. Thông điệp đồng bộ (Synchronous Message)",
+      "C. Thông điệp chu trình đơn (Self Message)",
+      "D. Thông điệp phản hồi (Reply Message)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 96,
+    "cau_hoi": "Trong biểu đồ tuần tự (Sequence Diagram), thông điệp nào thể hiện đối tượng gửi cho chính nó ?",
+    "options": [
+      "A. Thông điệp không đồng bộ (Asynchronous Message)",
+      "B. Thông điệp đồng bộ (Synchronous Message)",
+      "C. Thông điệp chu trình đơn (Self Message)",
+      "D. Thông điệp phản hồi (Reply Message)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 97,
+    "cau_hoi": "Trong biểu đồ tuần tự (Sequence Diagram), thông điệp nào thể hiện một hoạt động được thực hiện mà không cần có yêu cầu trước đó ?",
+    "options": [
+      "A. Thông điệp không đồng bộ (Asynchronous Message)",
+      "B. Thông điệp đồng bộ (Synchronous Message)",
+      "C. Thông điệp chu trình đơn (Self Message)",
+      "D. Thông điệp phản hồi (Reply Message)"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 98,
+    "cau_hoi": "Trong biểu đồ tuần tự (Sequence Diagram), thông điệp nào thể hiện một hoạt động được thực hiện sau khi có một yêu cầu ?",
+    "options": [
+      "A. Thông điệp không đồng bộ (Asynchronous Message)",
+      "B. Thông điệp đồng bộ (Synchronous Message)",
+      "C. Thông điệp chu trình đơn (Self Message)",
+      "D. Thông điệp phản hồi (Reply Message)"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 99,
+    "cau_hoi": "Thành phần nào có thể xuất hiện trong biểu đồ tuần tự (Sequence Diagram) ?",
+    "options": [
+      "A. Đối tượng, tác nhân, thông điệp, lớp",
+      "B. Ca sử dụng, tác nhân, thông điệp, lớp",
+      "C. Đối tượng, tác nhân, thông điệp, trạng thái",
+      "D. Đối tượng, tác nhân, hoạt động, lớp"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 100,
+    "cau_hoi": "Các bước xây dựng biểu đồ hoạt động ?",
+    "options": [
+      "A. Xác định use case, xác định các hoạt động cơ bản trong mỗi use case, kết nối các hoạt động thành các luồng xử lý",
+      "B. Xác định lớp, xác định các hoạt động cơ bản trong mỗi lớp, kết nối các hoạt động thành các luồng xử lý",
+      "C. Xác định đối tượng, xác định các hoạt động cơ bản trong mỗi đối tượng, kết nối các hoạt động thành các luồng xử lý",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 101,
+    "cau_hoi": "Ý nghĩa của biểu đồ hoạt động ?",
+    "options": [
+      "A. Cơ sở để thiết kế cơ sở dữ liệu",
+      "B. Cơ sở để xác định các phương thức cho các lớp",
+      "C. Cơ sở để xác định các ca sử dụng (Use case)",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 102,
+    "cau_hoi": "Biểu đồ hoạt động mô tả các luồng hoạt động nào ?",
+    "options": [
+      "A. Đồng bộ (hoặc tuần tự)",
+      "B. Song song",
+      "C. Bất đồng bộ",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 103,
+    "cau_hoi": "Mục tiêu của biểu đồ hoạt động ?",
+    "options": [
+      "A. Mô tả các chức năng của hệ thống",
+      "B. Mô tả quy trình xử lý nghiệp vụ",
+      "C. Mô tả dữ liệu của hệ thống",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 104,
+    "cau_hoi": "Biểu đồ hoạt động (Activity Diagram) mô tả cái gì ?",
+    "options": [
+      "A. Các dữ liệu của hệ thống",
+      "B. Các hoạt động của các đối tượng trong hệ thống",
+      "C. Các chức năng của hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 105,
+    "cau_hoi": "Biểu đồ hoạt động (Activity Diagram) mô tả cái gì ?",
+    "options": [
+      "A. Các luồng hoạt động nghiệp vụ của hệ thống",
+      "B. Các dữ liệu của hệ thống",
+      "C. Các chức năng của hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 106,
+    "cau_hoi": "Biểu đồ tuần tự (Sequence Diagram) là gì ?",
+    "options": [
+      "A. Là biểu đồ mô tả các lớp và mỗi quan hệ giữa chúng",
+      "B. Là biểu đồ mô tả các hoạt động bên trong của hệ thống",
+      "C. Là biểu đồ mô tả các đối tượng và tương tác giữa chúng",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 107,
+    "cau_hoi": "Đâu là thành phần của biểu đồ tuần tự",
+    "options": [
+      "A. Ca sử dụng (Use case)",
+      "B. Quan hệ kết hợp (Association)",
+      "C. Đường đời của đối tượng (Lifeline)",
+      "D. Quan hệ khái quát hóa (Generalization)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 108,
+    "cau_hoi": "Đâu là thành phần của biểu đồ tuần tự",
+    "options": [
+      "A. Ca sử dụng (Use case)",
+      "B. Quan hệ kết hợp (Association)",
+      "C. Thông điệp (Message)",
+      "D. Quan hệ khái quát hóa (Generalization)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 109,
+    "cau_hoi": "Đâu là thành phần của biểu đồ tuần tự",
+    "options": [
+      "A. Ca sử dụng (Use case)",
+      "B. Quan hệ kết hợp (Association)",
+      "C. Đối tượng",
+      "D. Quan hệ khái quát hóa (Generalization)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 110,
+    "cau_hoi": "Quan hệ khái quát hóa (Generalization) là thành phần của biểu đồ nào trong UML?",
+    "options": [
+      "A. Biểu đồ Tuần tự",
+      "B. Biểu đồ hoạt động",
+      "C. Biểu đồ lớp",
+      "D. Biểu đồ cộng tác"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 111,
+    "cau_hoi": "Quan hệ khái quát hóa (Generalization) là thành phần của biểu đồ nào trong UML?",
+    "options": [
+      "A. Biểu đồ Tuần tự",
+      "B. Biểu đồ hoạt động",
+      "C. Biểu đồ ca sử dụng",
+      "D. Biểu đồ cộng tác"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 112,
+    "cau_hoi": "Quan hệ kết hợp (Association) là thành phần của biểu đồ nào trong UML?",
+    "options": [
+      "A. Biểu đồ Tuần tự",
+      "B. Biểu đồ hoạt động",
+      "C. Biểu đồ ca sử dụng",
+      "D. Biểu đồ cộng tác"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 113,
+    "cau_hoi": "Quan hệ kết hợp (Association) là thành phần của biểu đồ nào trong UML?",
+    "options": [
+      "A. Biểu đồ Tuần tự",
+      "B. Biểu đồ hoạt động",
+      "C. Biểu đồ lớp",
+      "D. Biểu đồ cộng tác"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 114,
+    "cau_hoi": "Biểu đồ hoạt động (Activity Diagram) là gì ?",
+    "options": [
+      "A. Là biểu đồ mô tả các lớp và mối quan hệ giữa chúng",
+      "B. Là biểu đồ mô tả các hoạt động bên trong của hệ thống",
+      "C. Là biểu đồ mô tả các đối tượng và tương tác giữa chúng",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 115,
+    "cau_hoi": "Biểu đồ tuần tự (Sequence Diagram), tên của đối tượng được đặt như thế nào ?",
+    "options": [
+      "A. Có thể chỉ có tên của lớp",
+      "B. Có thể bao gồm tên đối tượng và tên lớp tương ứng",
+      "C. Có thể chỉ có tên của đối tượng",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 116,
+    "cau_hoi": "Biểu đồ hoạt động (Activity Diagram) khác biểu đồ tuần tự (Sequence Diagram) ở điểm nào?",
+    "options": [
+      "A. Biểu đồ hoạt động dùng để mô tả các trạng thái của hệ thống, còn biểu đồ tuần tự thì không mô tả trạng thái",
+      "B. Biểu đồ hoạt động mô tả các hoạt động các đối tượng, còn biểu đồ tuần tự mô tả tương tác giữa các đối tượng",
+      "C. Biểu đồ hoạt động chỉ sử dụng trong lập trình, còn biểu đồ tuần tự không sử dụng trong lập trình",
+      "D. Biểu đồ hoạt động mô tả cấu trúc của hệ thống, còn biểu đồ tuần tự không mô tả cấu trúc"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 117,
+    "cau_hoi": "Biểu đồ cộng tác (Collaboration Diagram) khác biểu đồ tuần tự (Sequence Diagram) ở điểm nào?",
+    "options": [
+      "A. Biểu đồ cộng tác nhấn mạnh sự tương tác giữa các đối tượng, còn biểu đồ tuần tự nhấn mạnh trình tự thời gian",
+      "B. Biểu đồ cộng tác dùng để mô tả các trạng thái của hệ thống, còn biểu đồ tuần tự thì không mô tả trạng thái",
+      "C. Biểu đồ cộng tác chỉ sử dụng trong lập trình, còn biểu đồ tuần tự không sử dụng trong lập trình",
+      "D. Biểu đồ cộng tác mô tả cấu trúc của hệ thống, còn biểu đồ tuần tự không mô tả cấu trúc"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 118,
+    "cau_hoi": "Việc xác định mối quan hệ giữa các lớp trong biểu đồ lớp có thể dựa vào ?",
+    "options": [
+      "A. Phương thức của các lớp",
+      "B. Thuộc tính của các lớp",
+      "C. Biểu đồ Use case",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 119,
+    "cau_hoi": "Việc xác định các phương thức cho các lớp trong xây dựng biểu đồ lớp có thể dựa vào ?",
+    "options": [
+      "A. Bảng từ điển dữ liệu",
+      "B. Biểu đồ tuần tự",
+      "C. Biểu đồ hoạt động",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 120,
+    "cau_hoi": "Bảng từ điển dữ liệu được xây dựng từ cơ sở nào ?",
+    "options": [
+      "A. Chức năng nghiệp vụ hệ thống",
+      "B. Hồ sơ nghiệp vụ",
+      "C. Yêu cầu nghiệp vụ",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 121,
+    "cau_hoi": "Căn cứ xác định các thuộc tính cho các lớp trong xây dựng biểu đồ lớp là gì ?",
+    "options": [
+      "A. Bảng từ điển dữ liệu",
+      "B. Biểu đồ tuần tự",
+      "C. Biểu đồ hoạt động",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 122,
+    "cau_hoi": "Căn cứ xác định các lớp trong xây dựng biểu đồ lớp là gì?",
+    "options": [
+      "A. Bảng từ điển dữ liệu",
+      "B. Các tác nhân",
+      "C. Các Use case",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 123,
+    "cau_hoi": "Quan hệ Hợp thành (Composition) trong UML là gì?",
+    "options": [
+      "A. Mối quan hệ giữa các lớp không phụ thuộc vào nhau",
+      "B. Mối quan hệ giữa toàn thể và bộ phận, trong đó bộ phận không tồn tại nếu toàn thể bị hủy",
+      "C. Mối quan hệ giữa lớp cha và lớp con",
+      "D. Mối quan hệ giữa các phương thức"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 124,
+    "cau_hoi": "Quan hệ Tụ hợp (Aggregation) trong UML có nghĩa là gì?",
+    "options": [
+      "A. Mối quan hệ giữa toàn thể và bộ phận, trong đó các bộ phận vẫn tồn tại nếu toàn thể bị hủy",
+      "B. Mối quan hệ giữa các lớp không phụ thuộc vào nhau",
+      "C. Mối quan hệ giữa lớp cha và lớp con",
+      "D. Mối quan hệ giữa các phương thức"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 125,
+    "cau_hoi": "Quan hệ Tổng quát hóa (Generalization) trong UML có ý nghĩa gì?",
+    "options": [
+      "A. Mối quan hệ giữa các đối tượng trong hệ thống",
+      "B. Quan hệ giữa các phương thức xử lý",
+      "C. Là quan hệ giữa lớp cha và lớp con",
+      "D. Một cách để triển khai phần mềm"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 126,
+    "cau_hoi": "Quan hệ nào sau đây là trường hợp đặc biệt của quan hệ kết hợp (Association)?",
+    "options": [
+      "A. Quan hệ Tổng quát hóa (Generalization)",
+      "B. Quan hệ Hợp thành (Composition)",
+      "C. Quan hệ phụ thuộc (Dependence)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 127,
+    "cau_hoi": "Lớp nào sau đây không có đối tượng",
+    "options": [
+      "A. Lớp trừu tượng hóa (Abstract Class)",
+      "B. Lớp giao diện (Interface Class)",
+      "C. Lớp thực thể (Entity Class)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 128,
+    "cau_hoi": "Lớp nào sau đây mà chỉ khai báo phương thức mà không cần định nghĩa",
+    "options": [
+      "A. Lớp trừu tượng hóa (Abstract Class)",
+      "B. Lớp giao diện (Interface Class)",
+      "C. Lớp thực thể (Entity Class)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 129,
+    "cau_hoi": "Lớp nào sau đây mà chỉ có phương thức mà không có thuộc tính",
+    "options": [
+      "A. Lớp trừu tượng hóa (Abstract Class)",
+      "B. Lớp giao diện (Interface Class)",
+      "C. Lớp thực thể (Entity Class)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 130,
+    "cau_hoi": "Quan hệ nào sau đây là trường hợp đặc biệt của quan hệ kết hợp (Association)?",
+    "options": [
+      "A. Quan hệ Tổng quát hóa (Generalization)",
+      "B. Quan hệ Tụ hợp (Aggregation)",
+      "C. Quan hệ phụ thuộc (Dependence)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 131,
+    "cau_hoi": "Quan hệ hợp thành (Composition) được dùng khi",
+    "options": [
+      "A. Bộ phận có thể tồn tại độc lập",
+      "B. Bộ phận không thể tồn tại nếu toàn thể bị xóa",
+      "C. Các lớp thừa thừa lẫn nhau",
+      "D. Các lớp chỉ tương tác tạm thời"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 132,
+    "cau_hoi": "Mối quan hệ Dependency mô tả",
+    "options": [
+      "A. Một lớp phụ thuộc tạm thời vào lớp khác",
+      "B. Một lớp chứa lớp khác",
+      "C. Một lớp là bộ phận của lớp khác",
+      "D. Lớp con kế thừa lớp cha"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 133,
+    "cau_hoi": "Phương thức (Operation) mô tả",
+    "options": [
+      "A. Trạng thái của lớp",
+      "B. Hành vi của lớp",
+      "C. Thuộc tính của lớp",
+      "D. Mối quan hệ giữa lớp"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 134,
+    "cau_hoi": "Trong biểu đồ lớp, lớp giao diện Interface được biểu diễn bằng",
+    "options": [
+      "A. Hình chữ nhật có phần tử <<interface>>",
+      "B. Hình tròn",
+      "C. Hình bầu dục",
+      "D. Mũi tên mở"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 135,
+    "cau_hoi": "Mối quan hệ giữa Class và Object là",
+    "options": [
+      "A. Class kế thừa Object",
+      "B. Object là một thể hiện của Class",
+      "C. Object chứa Class",
+      "D. Class là một thể hiện của Object"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 136,
+    "cau_hoi": "Kí hiệu \"0..*\" trên Association thể hiện",
+    "options": [
+      "A. Chỉ có một đối tượng",
+      "B. Một hoặc nhiều đối tượng",
+      "C. Không có đối tượng nào",
+      "D. Không xác định"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 137,
+    "cau_hoi": "Kí hiệu \"1..*\" trên Association thể hiện",
+    "options": [
+      "A. Chỉ có một đối tượng",
+      "B. Một hoặc nhiều đối tượng",
+      "C. Không có đối tượng nào",
+      "D. Không xác định"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 138,
+    "cau_hoi": "Quan hệ Association được dùng để mô tả",
+    "options": [
+      "A. Một lớp là bộ phận của lớp khác",
+      "B. Quan hệ sở hữu bắt buộc",
+      "C. Sự liên kết giữa các lớp",
+      "D. Sự kế thừa"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 139,
+    "cau_hoi": "Thuộc tính ký hiệu bằng dấu \"-\" thể hiện",
+    "options": [
+      "A. Public",
+      "B. Private",
+      "C. Protected",
+      "D. Package"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 140,
+    "cau_hoi": "Tính đóng gói (Encapsulation) trong lớp mô tả",
+    "options": [
+      "A. Ấn giấu dữ liệu và phương thức bên trong lớp",
+      "B. Chia nhỏ hệ thống thành mô-đun",
+      "C. Tái sử dụng mã nguồn",
+      "D. Kết hợp các lớp thành gói"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 141,
+    "cau_hoi": "Mối quan hệ Aggregation mô tả",
+    "options": [
+      "A. Quan hệ sở hữu chặt chẽ",
+      "B. Quan hệ toàn thể - bộ phận lỏng lẻo",
+      "C. Quan hệ đa hình",
+      "D. Quan hệ tương tác tạm thời"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 142,
+    "cau_hoi": "Kí hiệu mũi tên hình thoi đặc trong biểu đồ lớp biểu diễn mối quan hệ nào?",
+    "options": [
+      "A. Association",
+      "B. Aggregation",
+      "C. Composition",
+      "D. Generalization"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 143,
+    "cau_hoi": "Thành phần nào sau đây KHÔNG thuộc về lớp (Class)?",
+    "options": [
+      "A. Thuộc tính (Attribute)",
+      "B. Phương thức (Operation)",
+      "C. Đối tượng (Object)",
+      "D. Tên lớp"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 144,
+    "cau_hoi": "Biểu đồ lớp dùng để mô tả điều gì?",
+    "options": [
+      "A. Dòng công việc của hệ thống",
+      "B. Cấu trúc tĩnh của hệ thống",
+      "C. Luồng thông điệp giữa các đối tượng",
+      "D. Quy trình nghiệp vụ"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 145,
+    "cau_hoi": "Trong mỗi lớp (class) của biểu đồ lớp, ký hiệu dấu \"#\" có ý nghĩa gì?",
+    "options": [
+      "A. Mô tả phạm vi truy cập kiểu private",
+      "B. Mô tả phạm vi truy cập kiểu public",
+      "C. Mô tả phạm vi truy cập kiểu protected",
+      "D. Không có ý nghĩa"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 146,
+    "cau_hoi": "Trong mỗi lớp (class) của biểu đồ lớp, ký hiệu dấu \"-\" có ý nghĩa gì?",
+    "options": [
+      "A. Mô tả phạm vi truy cập kiểu private",
+      "B. Mô tả phạm vi truy cập kiểu public",
+      "C. Mô tả phạm vi truy cập kiểu protected",
+      "D. Không có ý nghĩa"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 147,
+    "cau_hoi": "Trong mỗi lớp (class) của biểu đồ lớp, ký hiệu dấu \"+\" có ý nghĩa gì?",
+    "options": [
+      "A. Mô tả phạm vi truy cập kiểu private",
+      "B. Mô tả phạm vi truy cập kiểu public",
+      "C. Mô tả phạm vi truy cập kiểu protected",
+      "D. Không có ý nghĩa"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 148,
+    "cau_hoi": "Lớp (Class Diagram) là gì?",
+    "options": [
+      "A. Là biểu đồ mô tả các hoạt động của hệ thống",
+      "B. Mô tả các lớp và mối quan hệ giữa chúng",
+      "C. Mô tả mối quan hệ giữa các đối tượng",
+      "D. Mô tả mối quan hệ giữa các use case"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 149,
+    "cau_hoi": "Biểu đồ lớp (Class Diagram) dùng để mô tả gì?",
+    "options": [
+      "A. Cấu trúc của hệ thống thông qua các lớp và mối quan hệ giữa chúng",
+      "B. Dòng chảy dữ liệu trong hệ thống",
+      "C. Các bước thực hiện của quy trình",
+      "D. Hoạt động của hệ thống theo thời gian"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 150,
+    "cau_hoi": "Mục đích chính của Activity Diagram là",
+    "options": [
+      "A. Mô tả cấu trúc phần mềm",
+      "B. Mô tả luồng nghiệp vụ và các hành động trong quy trình",
+      "C. Mô tả sự thay đổi trạng thái",
+      "D. Mô tả các đối tượng tương tác"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 151,
+    "cau_hoi": "Một Activity Diagram thường bắt đầu bằng",
+    "options": [
+      "A. Làn là đường thẳng kéo từ trên xuống (Swimlane)",
+      "B. Nút bắt đầu (Start Node)",
+      "C. Nút hoạt động (Activity)",
+      "D. Nút quyết định (Decision Node)"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 152,
+    "cau_hoi": "Hoạt động (Activity) có dạng hình",
+    "options": [
+      "A. Hình chữ nhật bo góc",
+      "B. Hình tròn",
+      "C. Hình elip",
+      "D. Hình thoi"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 153,
+    "cau_hoi": "Làn (Swimlane) là đường thẳng kéo từ trên xuống dưới trong biểu đồ hoạt động (Activity Diagram) được dùng để",
+    "options": [
+      "A. Phân chia trách nhiệm giữa các đối tượng/bộ phận",
+      "B. Thể hiện thời gian",
+      "C. Tối ưu hiệu năng",
+      "D. Thể hiện lớp hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 154,
+    "cau_hoi": "Decision Node (Nút rẽ nhánh) được ký hiệu bằng",
+    "options": [
+      "A. Hình tròn",
+      "B. Hình chữ nhật",
+      "C. Hình thoi",
+      "D. Hình sáu cạnh"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 155,
+    "cau_hoi": "Ký hiệu End Node (Điểm kết thúc) trong Activity Diagram",
+    "options": [
+      "A. Hình tròn đen",
+      "B. Hình tròn có viền và chấm đen bên trong",
+      "C. Hình vuông đen",
+      "D. Hình tam giác"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 156,
+    "cau_hoi": "Ký hiệu Start Node (Điểm bắt đầu) là",
+    "options": [
+      "A. Hình elip",
+      "B. Hình tròn tô đậm",
+      "C. Hình vuông",
+      "D. Hình thoi"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 157,
+    "cau_hoi": "Biểu đồ hoạt động dùng để mô tả điều gì?",
+    "options": [
+      "A. Cấu trúc hệ thống",
+      "B. Luồng công việc hoặc quy trình nghiệp vụ",
+      "C. Quan hệ giữa các lớp",
+      "D. Sự tương tác giữa các Actor"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 158,
+    "cau_hoi": "Sequence Diagram giúp trả lời câu hỏi",
+    "options": [
+      "A. \"Hệ thống bao gồm những lớp nào?\"",
+      "B. \"Các đối tượng tương tác với nhau như thế nào theo thời gian?\"",
+      "C. \"Trạng thái của đối tượng là gì?\"",
+      "D. \"Dòng nghiệp vụ gồm những bước nào?\""
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 159,
+    "cau_hoi": "Sequence Diagram được sử dụng nhiều nhất trong giai đoạn",
+    "options": [
+      "A. Khảo sát hệ thống",
+      "B. Phân tích & thiết kế hệ thống",
+      "C. Lập trình",
+      "D. Kiểm thử"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 160,
+    "cau_hoi": "Một Sequence Diagram KHÔNG thể hiện điều gì?",
+    "options": [
+      "A. Trình tự xử lý",
+      "B. Sự tương tác giữa các đối tượng",
+      "C. Cách tổ chức thuộc tính và phương thức của lớp",
+      "D. Dòng thông điệp theo thời gian"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 161,
+    "cau_hoi": "Return Message (Thông điệp trả về) dùng ký hiệu",
+    "options": [
+      "A. Mũi tên nét đứt",
+      "B. Mũi tên nét liền",
+      "C. Mũi tên đậm",
+      "D. Mũi tên đôi"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 162,
+    "cau_hoi": "Thông điệp đồng bộ (Synchronous Message) được biểu diễn bằng",
+    "options": [
+      "A. Mũi tên nét đứt",
+      "B. Mũi tên nét liền",
+      "C. Mũi tên có hình tròn rỗng",
+      "D. Mũi tên hai đầu"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 163,
+    "cau_hoi": "Một đối tượng trong Sequence Diagram được biểu diễn bằng",
+    "options": [
+      "A. Hình tròn",
+      "B. Hình chữ nhật với tên gạch chân",
+      "C. Hình tam giác",
+      "D. Hình ngôi sao"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 164,
+    "cau_hoi": "Trục thời gian trong biểu đồ tuần tự (Sequence Diagram) được biểu diễn theo hướng nào?",
+    "options": [
+      "A. Trái sang phải",
+      "B. Phải sang trái",
+      "C. Từ trên xuống dưới",
+      "D. Từ dưới lên trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 165,
+    "cau_hoi": "Biểu đồ tuần tự mô tả điều gì?",
+    "options": [
+      "A. Quan hệ giữa các lớp",
+      "B. Trình tự gửi và nhận thông điệp giữa các đối tượng theo thời gian",
+      "C. Trạng thái của đối tượng Quy trình nghiệp vụ tổng quát",
+      "D. [Trống]"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 166,
+    "cau_hoi": "Ca sử dụng (Use case) là gì?",
+    "options": [
+      "A. Một chức năng của hệ thống",
+      "B. Một phương thức xử lý dữ liệu",
+      "C. Một đối tượng bên ngoài hệ thống có tương tác với hệ thống",
+      "D. Một tập hợp các dữ liệu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 167,
+    "cau_hoi": "Ca sử dụng (Use case) là gì?",
+    "options": [
+      "A. Một chuỗi các hoạt động của hệ thống",
+      "B. Một phương thức xử lý dữ liệu",
+      "C. Một đối tượng bên ngoài hệ thống có tương tác với hệ thống",
+      "D. Một tập hợp các dữ liệu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 168,
+    "cau_hoi": "Trong biểu đồ Use Case, ca sử dụng (Use case) là gì?",
+    "options": [
+      "A. Một lớp trong hệ thống",
+      "B. Một phương thức xử lý dữ liệu",
+      "C. Một đối tượng bên ngoài hệ thống có tương tác với hệ thống",
+      "D. Một chức năng của hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 169,
+    "cau_hoi": "Trong biểu đồ Use Case, tác nhân (Actor) là gì?",
+    "options": [
+      "A. Người dùng hệ thống",
+      "B. Tổ chức có tương tác với hệ thống",
+      "C. Một hệ thống khác có tương tác với hệ thống cần phát triển",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 170,
+    "cau_hoi": "Trong biểu đồ Use Case, tác nhân (Actor) là gì?",
+    "options": [
+      "A. Một lớp trong hệ thống",
+      "B. Một phương thức xử lý dữ liệu",
+      "C. Một đối tượng bên ngoài hệ thống có tương tác với hệ thống",
+      "D. Một phần của cơ sở dữ liệu"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 171,
+    "cau_hoi": "Đâu không phải là hoạt động xây dựng biểu đồ Use case ?",
+    "options": [
+      "A. Xác định các tác nhân",
+      "B. Xác định các Use case",
+      "C. Xác định mối quan hệ giữa các lớp",
+      "D. Xác định mối quan hệ giữa các tác nhân"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 172,
+    "cau_hoi": "Đâu không phải là hoạt động xây dựng biểu đồ Use case ?",
+    "options": [
+      "A. Xác định các tác nhân",
+      "B. Xác định các Use case",
+      "C. Xác định mối quan hệ giữa các tác nhân",
+      "D. Xác định mối quan hệ giữa các đối tượng"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 173,
+    "cau_hoi": "Đâu không phải là hoạt động xây dựng biểu đồ Use case ?",
+    "options": [
+      "A. Xác định các tác nhân",
+      "B. Xác định các Use case",
+      "C. Xác định mối quan hệ giữa các tác nhân",
+      "D. Xác định mối quan hệ giữa các đối tượng"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 174,
+    "cau_hoi": "Đâu không phải là nội dung của phương pháp xây dựng biểu đồ Use case ?",
+    "options": [
+      "A. Xác định các tác nhân",
+      "B. Xác định các Use case",
+      "C. Xác định mối quan hệ giữa các Use case",
+      "D. Xác định mối quan hệ giữa các đối tượng"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 175,
+    "cau_hoi": "Quan hệ bao hàm (Include) trong biểu đồ Use case là gì ?",
+    "options": [
+      "A. Là quan hệ mô tả một Use case mở rộng hành vi của một Use case khác",
+      "B. Là quan hệ mô tả một Use case là chức năng con của Use còn lại",
+      "C. Là quan hệ mô tả mối quan hệ giữa tác nhân và Use case",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 176,
+    "cau_hoi": "Quan hệ mở rộng (Extend) trong biểu đồ Use case là gì ?",
+    "options": [
+      "A. Là quan hệ mô tả một Use case mở rộng hành vi của một Use case khác",
+      "B. Là quan hệ mô tả một Use case là chức năng con của Use còn lại",
+      "C. Là quan hệ mô tả mối quan hệ giữa tác nhân và Use case",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 177,
+    "cau_hoi": "Quan hệ kết hợp (Association) trong biểu đồ Use case là gì ?",
+    "options": [
+      "A. Là quan hệ mô tả tác nhân tham gia vào quy trình hoạt động của Use case đó",
+      "B. Là quan hệ mô tả tác nhân cung cấp thông tin (Message) cho các đối tượng trong Use case",
+      "C. Là quan hệ mô tả tác nhân tiếp nhận thông tin (Message) từ các đối tượng trong Use case",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 178,
+    "cau_hoi": "Biểu đồ Use Case thường được tạo lập trong giai đoạn nào của phát triển hệ thống?",
+    "options": [
+      "A. Phân tích hệ thống",
+      "B. Thiết kế hệ thống",
+      "C. Lập trình hệ thống",
+      "D. Bảo trì hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 179,
+    "cau_hoi": "Trong UML, biểu đồ đối tượng (Object Diagram) dùng để làm gì?",
+    "options": [
+      "A. Mô tả các đối tượng cụ thể trong hệ thống và mối quan hệ giữa chúng",
+      "B. Mô tả các lớp và mối quan hệ của chúng",
+      "C. Mô tả các quy trình làm việc trong hệ thống",
+      "D. Mô tả các thành phần phần mềm"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 180,
+    "cau_hoi": "Trong biểu đồ Use Case, quan hệ kết hợp (Association) mô tả mối quan hệ giữa ?",
+    "options": [
+      "A. Các tác nhân với nhau",
+      "B. Các ca sử dụng (Use case) với nhau",
+      "C. Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 181,
+    "cau_hoi": "Trong biểu đồ Use Case, quan hệ khái quát hóa (Generalization) biểu diễn mối quan hệ giữa ?",
+    "options": [
+      "A. Các tác nhân với nhau",
+      "B. Các ca sử dụng (Use case) với nhau",
+      "C. Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 182,
+    "cau_hoi": "Trong phân tích và thiết kế hướng đối tượng, một lớp có thể chứa bao nhiêu thuộc tính?",
+    "options": [
+      "A. Nhiều thuộc tính",
+      "B. Một thuộc tính",
+      "C. Không có thuộc tính nào",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 183,
+    "cau_hoi": "Trong phân tích và thiết kế hướng đối tượng, một lớp có thể chứa bao nhiêu phương thức?",
+    "options": [
+      "A. Nhiều phương thức",
+      "B. Chỉ một phương thức",
+      "C. Không có phương thức nào",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 184,
+    "cau_hoi": "Biểu đồ Use Case chủ yếu biểu diễn nội dung nào của hệ thống ?",
+    "options": [
+      "A. Các chức năng của hệ thống",
+      "B. Các thành phần phần mềm và mối quan hệ giữa chúng",
+      "C. Các trạng thái của đối tượng trong hệ thống",
+      "D. Các lớp và mối quan hệ của chúng"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 185,
+    "cau_hoi": "Quan hệ khái quát hóa (Generalization) trong biểu đồ Use case thể hiện điều gì?",
+    "options": [
+      "A. Quan hệ kế thừa giữa lớp cha và lớp con",
+      "B. Quan hệ giữa các đối tượng trong hệ thống",
+      "C. Quan hệ giữa các trạng thái của hệ thống",
+      "D. Quan hệ giữa các phương thức trong hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 186,
+    "cau_hoi": "Biểu đồ Use Case không có quan hệ nào sau đây ?",
+    "options": [
+      "A. Cộng tác (Association)",
+      "B. Bao hàm (Include)",
+      "C. Mở rộng (Extend)",
+      "D. Hợp thành (Composition)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 187,
+    "cau_hoi": "Biểu đồ Use Case bao gồm các thành phần ?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use Case)",
+      "C. Mối quan hệ giữa các ca sử dụng (Use Case)",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 188,
+    "cau_hoi": "Phát biểu nào sau đây đúng ?",
+    "options": [
+      "A. Biểu đồ Use Case biểu diễn mối quan hệ giữa hệ thống với môi trường bên ngoài",
+      "B. Biểu đồ Use Case biểu diễn các chức năng độc lập với môi trường bên ngoài",
+      "C. Biểu đồ Use Case biểu diễn các hoạt động của hệ thống",
+      "D. Biểu đồ Use Case biểu diễn mối quan hệ giữa các tác nhân với hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 189,
+    "cau_hoi": "Biểu đồ Use Case biểu diễn",
+    "options": [
+      "A. Các đối tượng của hệ thống",
+      "B. Các chức năng của hệ thống",
+      "C. Các trạng thái của hệ thống",
+      "D. Các hoạt động của hệ thống"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 190,
+    "cau_hoi": "Tác dụng chính của biểu đồ Use Case là",
+    "options": [
+      "A. Xác định yêu cầu chức năng của hệ thống",
+      "B. Xây dựng giao diện người dùng",
+      "C. Thiết kế cấu trúc dữ liệu",
+      "D. Viết mã nguồn"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 191,
+    "cau_hoi": "Khi một Use Case phụ thuộc phải được thực thi như một phần của Use Case chính, ta sử dụng",
+    "options": [
+      "A. Extend",
+      "B. Include",
+      "C. Generalization",
+      "D. Actor kế thừa"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 192,
+    "cau_hoi": "Mối quan hệ nào sau đây KHÔNG dùng trong biểu đồ Use Case?",
+    "options": [
+      "A. Include",
+      "B. Extend",
+      "C. Generalization",
+      "D. Aggregation"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 193,
+    "cau_hoi": "Trong biểu đồ Use Case, hệ thống được biểu diễn bằng",
+    "options": [
+      "A. Một hình chữ nhật bao quanh các Use Case",
+      "B. Một đường thẳng ngang",
+      "C. Một hình tròn",
+      "D. Một hình tam giác ngược"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 194,
+    "cau_hoi": "Actor có thể là",
+    "options": [
+      "A. Người dùng cuối",
+      "B. Hệ thống bên ngoài",
+      "C. Tổ chức hoặc thiết bị",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 195,
+    "cau_hoi": "Biểu đồ Use Case thuộc giai đoạn nào trong vòng đời phát triển hệ thống?",
+    "options": [
+      "A. Phân tích hệ thống",
+      "B. Thiết kế hệ thống",
+      "C. Cài đặt hệ thống",
+      "D. Kiểm thử hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 196,
+    "cau_hoi": "Quan hệ giữa Actor và Use Case thể hiện bằng",
+    "options": [
+      "A. Mũi tên",
+      "B. Đường thẳng không hướng",
+      "C. Đường cong",
+      "D. Hình thoi"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 197,
+    "cau_hoi": "Ký hiệu Use Case là",
+    "options": [
+      "A. Hình chữ nhật",
+      "B. Hình tròn",
+      "C. Hình elip",
+      "D. Hình thoi"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 198,
+    "cau_hoi": "Quan hệ tổng quát hóa (generalization) giữa các Use Case dùng để",
+    "options": [
+      "A. Thay thế một Use Case chính",
+      "B. Tạo ra Use Case con kế thừa hành vi Use Case cha",
+      "C. Kết nối Actor với Use Case",
+      "D. Chia nhỏ hệ thống thành module"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 199,
+    "cau_hoi": "Quan hệ «extend» thể hiện",
+    "options": [
+      "A. Một phần chức năng luôn được thực hiện",
+      "B. Một chức năng chỉ thực hiện khi có điều kiện",
+      "C. Một Use Case thay thế Use Case khác",
+      "D. Một Actor mới được thêm vào"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 200,
+    "cau_hoi": "Quan hệ «include» thể hiện",
+    "options": [
+      "A. Một Use Case luôn bao gồm một Use Case khác",
+      "B. Một Use Case có thể mở rộng Use Case khác",
+      "C. Quan hệ kế thừa",
+      "D. Quan hệ thay thế"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 201,
+    "cau_hoi": "Thành phần nào KHÔNG thuộc biểu đồ Use Case?",
+    "options": [
+      "A. Actor",
+      "B. Use Case",
+      "C. Association",
+      "D. Attribute"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 202,
+    "cau_hoi": "Biểu đồ Use Case được sử dụng để mô tả gì?",
+    "options": [
+      "A. Cấu trúc lớp trong hệ thống",
+      "B. Chức năng hệ thống nhìn từ góc độ người dùng",
+      "C. Trình tự thông điệp",
+      "D. Trạng thái của đối tượng"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 203,
+    "cau_hoi": "Biểu đồ Use Case là gì ?",
+    "options": [
+      "A. Mô tả các tác nhân của hệ thống",
+      "B. Mô tả các chức năng của hệ thống và tương tác giữa các chức năng của hệ thống với tác nhân",
+      "C. Mô tả các lớp của hệ thống và mối quan hệ giữa chúng",
+      "D. Mô tả các đối tượng của hệ thống và mối quan hệ giữa chúng"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 204,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ hành vi?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ ca sử dụng (Use case)",
+      "C. Biểu đồ thành phần (Component Diagram)",
+      "D. Biểu đồ cộng tác (Collaboration Diagram)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 205,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ hành vi?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ thành phần (Component Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 206,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ hành vi?",
+    "options": [
+      "A. Biểu đồ hoạt động (Activity Diagram)",
+      "B. Biểu đồ thành phần (Component Diagram)",
+      "C. Biểu đồ ca sử dụng (Use case)",
+      "D. Biểu đồ lớp (Class Diagram)"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 207,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ cấu trúc?",
+    "options": [
+      "A. Biểu đồ hoạt động (Activity Diagram)",
+      "B. Biểu đồ ca sử dụng (Use case)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ cộng tác (Collaboration Diagram)"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 208,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ cấu trúc?",
+    "options": [
+      "A. Biểu đồ hoạt động (Activity Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ cộng tác (Collaboration Diagram)"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 209,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây được thuộc loại biểu đồ cấu trúc?",
+    "options": [
+      "A. Biểu đồ hoạt động (Activity Diagram)",
+      "B. Biểu đồ thành phần (Component Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ cộng tác (Collaboration Diagram)"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 210,
+    "cau_hoi": "Sự khác nhau của biểu đồ thể hiện ở giai đoạn thiết kế và giai đoạn phân tích là gì?",
+    "options": [
+      "A. Biểu đồ ở giai đoạn thiết kế được mô tả hoàn thiện và chi tiết hơn",
+      "B. Biểu đồ ở giai đoạn thiết kế được mô tả có tính cấu trúc theo kiến trúc hệ thống",
+      "C. Biểu đồ ở giai đoạn thiết kế được mô tả trừu tượng hơn",
+      "D. Không có sự khác nhau"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 211,
+    "cau_hoi": "Biểu đồ nào sau đây được sử dụng ở giai đoạn thiết kế hệ thống?",
+    "options": [
+      "A. Biểu đồ triển khai (Deployment Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ tuận tự (Sequence Diagram)",
+      "D. Tất cả các biểu đồ trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 212,
+    "cau_hoi": "Biểu đồ nào sau đây được không sử dụng ở giai đoạn phân tích hệ thống?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ gói (Package Diagram)",
+      "C. Biểu đồ thành phần (Component Diagram)",
+      "D. Biểu đồ triển khai (Deployment Diagram)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 213,
+    "cau_hoi": "Biểu đồ nào sau đây được sử dụng ở giai đoạn phân tích hệ thống?",
+    "options": [
+      "A. Biều đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Tất cả các biểu đồ trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 214,
+    "cau_hoi": "Biểu đồ nào sau đây không được thế hện ở giai đoạn kế hệ thống?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ hoạt động (Activity Diagram)",
+      "D. Tất cả các biểu đồ trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 215,
+    "cau_hoi": "Biểu đồ nào sau đây được sử dụng ở giai đoạn phân tích hệ thống?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ hoạt động (Activity Diagram)",
+      "D. Tất cả các biểu đồ trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 216,
+    "cau_hoi": "Kết quả của giai đoạn phân tích hệ thống sử dụng UML?",
+    "options": [
+      "A. Tài liệu đánh giá hệ thống",
+      "B. Hồ sơ nghiệp vụ",
+      "C. Chức năng nghiệp vụ",
+      "D. Các biểu đồ phân tích được mỗ hình hóa bởi UML"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 217,
+    "cau_hoi": "UML không cần sử dụng trong giai đoạn phát triển nào của hệ thống?",
+    "options": [
+      "A. Phân tích",
+      "B. Thiết kế",
+      "C. Khảo sát",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 218,
+    "cau_hoi": "Phương pháp phân tích và thiết kế hệ thống hướng đối tượng?",
+    "options": [
+      "A. Là phương pháp mô hình hóa hệ thống",
+      "B. Là phương pháp phát triển phần mềm",
+      "C. Là phương pháp quản lý hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 219,
+    "cau_hoi": "Trong phân tích và thiết kế hệ thống hướng đối tượng, khẳng định nào sau là đúng?",
+    "options": [
+      "A. Chỉ có các phương thức của cùng lớp truy cập đến các thuộc tính protected",
+      "B. Các phương thức của lớp khác có truy cập đến các thuộc tỉnh của lớp này",
+      "C. Các phương thức của lớp kế thừa (lớp con) có thể truy cập đến thuộc tính protected lớp cha",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 220,
+    "cau_hoi": "Trong phân tích và thiết kế hệ thống hướng đối tượng, các thuộc tính từ khóa phạm vi là private có ý nghĩa như thế nào ?",
+    "options": [
+      "A. Chỉ cho phép các phương thức của cùng lớp truy cập",
+      "B. Các phương thức của lớp khác có truy cập đến các thuộc tỉnh của lớp này",
+      "C. Các phương thức của lớp kế thừa (lớp con) có thể truy cập đến thuộc tỉnh lớp cha",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 221,
+    "cau_hoi": "Trong phân tích và thiết kế hệ thống hướng đối tượng, tính đóng gói nghĩa là ?",
+    "options": [
+      "A. Tập hợp các lớp thành một gói",
+      "B. Che dầu thông tin",
+      "C. Mở rộng sự truy cập đến các thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 222,
+    "cau_hoi": "Trong phân tích và thiết kế hệ thống hướng đối tượng, giai đoạn nào sau đây được thực hiện trước?",
+    "options": [
+      "A. Thiết kế hệ thống",
+      "B. Phân tích hệ thống",
+      "C. Xác định yêu cầu",
+      "D. Kiểm thử hệ thống"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 223,
+    "cau_hoi": "Biểu đồ nào sau đây xác định phạm vi của hệ thống cần phát triển?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ ca sử dụng (Use case Diagram)",
+      "D. Biểu đồ tuần tự (Sequence Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 224,
+    "cau_hoi": "Biểu đồ tuần tự (Sequence Diagram) sử dụng trong trường hợp nào?",
+    "options": [
+      "A. Phân tích chi tiết một lớp",
+      "B. Biểu diễn trạng thái của hệ thống",
+      "C. Biểu diễn các đối tượng",
+      "D. Biểu diễn hành vi của các đối tượng qua thời gian sống (lifeline) của chúng"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 225,
+    "cau_hoi": "Biểu đồ hoạt động sử dụng trong trường hợp nào?",
+    "options": [
+      "A. Phân tích chi tiết một use case",
+      "B. Phân tích chi tiết một lớp",
+      "C. Biểu diễn trạng thái của hệ thống",
+      "D. Biễu diễn các đối tượng"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 226,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây biểu diễn sự tương tác giữa các đối tượng của của hệ thống theo trình tự thời gian?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ trình tự (Sequence Diagram)",
+      "D. Biểu đồ cộng tác (Collapboration Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 227,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây biểu diễn sự tương tác giữa các đối tượng của của hệ thống không theo trình tự thời gian?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ hoạt động (Activity Diagram)",
+      "D. Biểu đồ cộng tác (Collapboration Diagram)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 228,
+    "cau_hoi": "Trong UML, biểu đồ nào sau đây mô tả luồng hoạt động của hệ thống?",
+    "options": [
+      "A. Biểu đồ ca sử dụng (Use case Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ hoạt động (Activity Diagram)",
+      "D. Biểu đồ cộng tác (Collapboration Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 229,
+    "cau_hoi": "Trong UML, biểu đồ hoạt động chủ yếu dùng để mô tả?",
+    "options": [
+      "A. Trạng thái của một đối tượng",
+      "B. Quan hệ giữa các đối tượng",
+      "C. Mối quan hệ giữa các lớp",
+      "D. Các bước thực hiện của một ca sử dụng (Use Case)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 230,
+    "cau_hoi": "Trong UML, biểu đồ nào dùng để mô tả tương tác giữa các đối tượng trong hệ thống quan thời gian?",
+    "options": [
+      "A. Biểu đồ trình tự (Sequence Diagram)",
+      "B. Biểu đồ lớp (Class Diagram)",
+      "C. Biểu đồ trạng thái (State Diagram)",
+      "D. Biểu đồ hoạt động (Activity Diagram)"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 231,
+    "cau_hoi": "Trong UML, Một tác nhân (Actor) được định nghĩa như thế nào ?",
+    "options": [
+      "A. Một hệ thống con",
+      "B. Một thực thể bên ngoài có tương tác với hệ thống",
+      "C. Một đối tượng trong hệ thống",
+      "D. Một thuộc tính của một lớp nào đó"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 232,
+    "cau_hoi": "Phát biểu nào sau đây là đúng ?",
+    "options": [
+      "A. Một lớp có thể không có thuộc tính",
+      "B. Một lớp có thể không có phương thức",
+      "C. Một lớp có thể không có đối tượng",
+      "D. Cả ba phương án trên đều đúng"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 233,
+    "cau_hoi": "Trong UML, biểu đồ lớp dùng đề?",
+    "options": [
+      "A. Mô tả các lớp và mối quan hệ giữa chúng",
+      "B. Mô tả các luồng xử lý",
+      "C. Mô tả các trạng thái của hệ thống",
+      "D. Mô tả cấu trúc của hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 234,
+    "cau_hoi": "Trong UML, biểu đồ nào mô tả chức năng của hệ thống?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ ca sử dụng (Use Case)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 235,
+    "cau_hoi": "Biểu đồ nào sau đây không chứa quan hệ kết hợp (Association)?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ Ca sử dụng (Use Case Diagram)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 236,
+    "cau_hoi": "Biểu đồ nào sau đây cụ thể hóa biểu đồ Use case?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 237,
+    "cau_hoi": "Trong UML, biểu đồ nào mô tả ngữ cảnh của hệ thống ?",
+    "options": [
+      "A. Biểu đồ lớp (Class Diagram)",
+      "B. Biểu đồ hoạt động (Activity Diagram)",
+      "C. Biểu đồ tuần tự (Sequence Diagram)",
+      "D. Biểu đồ ca sử dụng (Use Case)"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 238,
+    "cau_hoi": "Khẳng định nào sau đây là sai ?",
+    "options": [
+      "A. Lớp là dạng trừu tượng hóa của đối tượng",
+      "B. Lớp là một tập hợp các đối tượng có cùng thuộc tính",
+      "C. Lớp là một tập hợp các đối tượng có cùng thuộc tính và phương thức",
+      "D. Đối tượng là một thể hiện của lớp"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 239,
+    "cau_hoi": "Trong UML, biểu đồ nào mô tả cấu trúc tĩnh của hệ thống?",
+    "options": [
+      "A. Class Diagram",
+      "B. Activity Diagram",
+      "C. Sequence Diagram",
+      "D. Collapboration Diagram"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 240,
+    "cau_hoi": "Ý nghĩa của UML?",
+    "options": [
+      "A. Trực quan hóa hệ thống",
+      "B. Chuẩn hóa hệ thống",
+      "C. Mở rộng giao tiếp giữa khách hàng và các nhà phát triển hệ thống",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 241,
+    "cau_hoi": "UML là ngôn ngữ dùng để trực quan hóa nội dung nào của hệ thống ?",
+    "options": [
+      "A. Cấu trúc hệ thống",
+      "B. Hành vi của hệ thống",
+      "C. Mối quan hệ giữa các thành phần của hệ thống",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 242,
+    "cau_hoi": "Vai trò của UML là gì ?",
+    "options": [
+      "A. Giúp người lập trình và thiết kế hệ thống thông tin giao tiếp với nhau",
+      "B. Giúp người khách hàng và phân tích hệ thống thông tin giao tiếp với nhau",
+      "C. Giúp người phân tích và thiết kế hệ thống thông tin giao tiếp với nhau",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 243,
+    "cau_hoi": "Đâu là công cụ thể hiện UML ?",
+    "options": [
+      "A. Rational Rose",
+      "B. Visual Paradigm",
+      "C. Visio",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 244,
+    "cau_hoi": "Nhận định nào sau đây về UML là sai?",
+    "options": [
+      "A. UML là ngôn ngữ mô hình hóa",
+      "B. UML là ngôn ngữ đặc tả",
+      "C. UML là ngôn ngữ làm tài liệu",
+      "D. UML là ngôn ngữ lập trình"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 245,
+    "cau_hoi": "UML (Unified Modeling Language) là gì?",
+    "options": [
+      "A. Ngôn ngữ mô hình hóa thống nhất dùng để biểu diễn hệ thống thông tin",
+      "B. Một ngôn ngữ lập trình",
+      "C. Một công cụ kiểm thử phần mềm",
+      "D. Một cơ sở dữ liệu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 246,
+    "cau_hoi": "Sơ đồ nào sau đây không phải là sơ đồ của UML?",
+    "options": [
+      "A. Biểu đồ hoạt động (Activity Diagram)",
+      "B. Biểu đồ thành phần (Component Diagram)",
+      "C. Biểu đồ mối quan hệ (Relationship Diagram)",
+      "D. Biểu đồ lớp (Class Diagram)"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 247,
+    "cau_hoi": "UML là gì ?",
+    "options": [
+      "A. Là ngôn ngữ lập trình dùng để xây dựng hệ thống thông tin",
+      "B. Là một phương pháp phân tích hệ thống",
+      "C. Là ngôn ngữ mô hình hóa để phân tích và thiết kế hệ thống",
+      "D. Một công cụ kiểm thử phần mềm"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 248,
+    "cau_hoi": "UML là gì ?",
+    "options": [
+      "A. Là ngôn ngữ lập trình dùng để xây dựng hệ thống thông tin",
+      "B. Là ngôn công cụ dùng để biểu diễn quá trình phát triển hệ thống thông tin",
+      "C. Là ngôn ngữ mô hình hóa thống nhất dùng để biểu diễn quá trình phát triển hệ thống thông tin",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 249,
+    "cau_hoi": "UML được viết tắt bởi cụm từ nào sau đây ?",
+    "options": [
+      "A. Unified Model Language",
+      "B. Unified Modeling Language",
+      "C. Uniform Modeling Language",
+      "D. Unified Mode Language"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 250,
+    "cau_hoi": "Mô hình hóa (Modeling) là gì ?",
+    "options": [
+      "A. Là quá trình xây dựng các mô hình để mô tả về hệ thống, đối tượng, ....",
+      "B. Là dạng trừu tượng hóa của đối tượng thực tế",
+      "C. Là dạng trừu tượng hóa của sự kiện thực tế",
+      "D. Là dạng trừu tượng hóa của hệ thống thực tế"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 251,
+    "cau_hoi": "Mô hình (Model) là gì ?",
+    "options": [
+      "A. Là dạng trừu tượng hóa của hệ thống thực tế",
+      "B. Là dạng trừu tượng hóa của đối tượng thực tế",
+      "C. Là dạng trừu tượng hóa của sự kiện thực tế",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 252,
+    "cau_hoi": "Một trong những yếu tố quan trọng cần xác định trong quá trình khảo sát là gì?",
+    "options": [
+      "A. Các chức năng chính của hệ thống cần phát triển",
+      "B. Chi phí bảo trì hệ thống",
+      "C. Danh sách các nhà cung cấp dịch vụ",
+      "D. Ngân sách dành cho bảo trì"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 253,
+    "cau_hoi": "Trong quá trình khảo sát, cần chú ý đến yếu tố nào sau đây?",
+    "options": [
+      "A. Các ràng buộc về môi trường và nghiệp vụ",
+      "B. Lựa chọn công cụ lập trình",
+      "C. Xây dựng cơ sở dữ liệu",
+      "D. Tìm kiếm phần mềm thay thế"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 254,
+    "cau_hoi": "Một trong những yêu cầu khi lập tài liệu khảo sát là gì?",
+    "options": [
+      "A. Phải trung thực và khách quan",
+      "B. Chọn đúng phần mềm quản lý",
+      "C. Lựa chọn các đối tác kinh doanh",
+      "D. Đảm bảo chi phí tối thiểu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 255,
+    "cau_hoi": "Tài liệu khảo sát được lập ra nhằm mục đích gì?",
+    "options": [
+      "A. Mô tả chi tiết hiện trạng và đề xuất giải pháp phát triển hệ thống",
+      "B. Lập kế hoạch tài chính cho dự án",
+      "C. Lựa chọn phần mềm quản lý",
+      "D. Kiểm thử hệ thống hiện tại"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 256,
+    "cau_hoi": "Nội dung khảo sát hiện trạng bao gồm những gì?",
+    "options": [
+      "A. Các quy trình nghiệp vụ và cách thức hoạt động của hệ thống hiện tại",
+      "B. Xác định danh sách các nhà cung cấp phần mềm",
+      "C. Xác định ngân sách cho phát triển hệ thống mới",
+      "D. Xác định kế hoạch bảo trì hệ thống"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 257,
+    "cau_hoi": "Phương pháp nào sau đây KHÔNG phải là phương pháp khảo sát hệ thống?",
+    "options": [
+      "A. Kiểm thử phần mềm về HTTT mới phát triển",
+      "B. Phỏng vấn nhân viên",
+      "C. Quan sát trực tiếp",
+      "D. Nghiên cứu tài liệu"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 258,
+    "cau_hoi": "Nội dung nào cần đánh giá tính khả thi của dự án phát triển HTTT",
+    "options": [
+      "A. Khả thi hoạt động",
+      "B. Khả thi kinh tế",
+      "C. Khả thi pháp lý",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 259,
+    "cau_hoi": "Nội dung nào cần đánh giá tính khả thi của dự án phát triển HTTT",
+    "options": [
+      "A. Khả thi kỹ thuật",
+      "B. Khả thi kinh tế",
+      "C. Khả thi pháp lý",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 260,
+    "cau_hoi": "Việc đánh giá hiện trạng của HTTT có mục đích gì",
+    "options": [
+      "A. Xác định các hạn chế của HTTT hiện thời",
+      "B. Xác định các yêu cầu về hệ thống mới cần phát triển",
+      "C. Xác định các ưu điểm của HTTT hiện thời",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 261,
+    "cau_hoi": "Các hình thức khảo sát HTTT là gì ?",
+    "options": [
+      "A. Nghiên cứu tài liệu",
+      "B. Quan sát và theo dõi",
+      "C. Điều tra",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 262,
+    "cau_hoi": "Các hình thức khảo sát HTTT là gì ?",
+    "options": [
+      "A. Nghiên cứu tài liệu",
+      "B. Quan sát và theo dõi",
+      "C. Phỏng vấn",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 263,
+    "cau_hoi": "Nguồn điều tra trong quá trình khảo sát HTTT là",
+    "options": [
+      "A. Người dùng hệ thống",
+      "B. Sổ sách, tài liệu",
+      "C. Chương trình máy tính",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 264,
+    "cau_hoi": "Nội dung nào là yêu cầu về khảo sát HTTT",
+    "options": [
+      "A. Khách quan",
+      "B. Hạn chế bỏ sót thông tin",
+      "C. Không trùng lặp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 265,
+    "cau_hoi": "Kết quả của quả trình khảo sát hệ thống là gì?",
+    "options": [
+      "A. Kế hoạch thực hiện dự án",
+      "B. Giải pháp thực hiện dự án",
+      "C. Các vấn đề cần giải quyết",
+      "D. Tài liệu khảo sát mô tả hiện trạng và đề xuất giải pháp phát triển hệ thống"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 266,
+    "cau_hoi": "Tại sao cần phải đánh giá hệ thống hiện tại trong quá trình khảo sát?",
+    "options": [
+      "A. Để xác định các điểm yếu và đề ra giải pháp phát triển",
+      "B. Để tối ưu hóa chi phí cho hệ thống mới",
+      "C. Để xác định các lỗi bảo mật",
+      "D. Để tìm nhà cung cấp dịch vụ phù hợp"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 267,
+    "cau_hoi": "Tài liệu khảo sát hệ thống bao gồm những gì?",
+    "options": [
+      "A. Các mô tả chi tiết về hệ thống hiện tại và đề xuất cải tiến",
+      "B. Kế hoạch tài chính cho hệ thống mới",
+      "C. Danh sách các nhà cung cấp phần mềm",
+      "D. Đánh giá hiệu suất của phần mềm mới"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 268,
+    "cau_hoi": "Hoạt động nào thuộc nội dung của khảo sát HTTT",
+    "options": [
+      "A. Tìm hiểu môi trường xã hội",
+      "B. Tìm hiểu môi trường kinh tế",
+      "C. Tìm hiểu môi trường kỹ thuật",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 269,
+    "cau_hoi": "Nội dung nào thuộc nhiệm vụ khảo sát HTTT",
+    "options": [
+      "A. Điều tra, thu thập thông tin",
+      "B. Biên tập, sắp xếp, biểu diễn thông tin thu thập",
+      "C. Xác định mục tiêu dự án phát triển HTTT",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 270,
+    "cau_hoi": "Một trong những phương pháp khảo sát hệ thống là gì?",
+    "options": [
+      "A. Phỏng vấn người dùng hệ thống hiện tại",
+      "B. Thực hiện kiểm tra hệ thống mới",
+      "C. Xây dựng các phần mềm thử nghiệm",
+      "D. Đào tạo lại toàn bộ nhân viên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 271,
+    "cau_hoi": "Số kế toán là gì ?",
+    "options": [
+      "A. Là hồ sơ dùng để ghi chép, tổng hợp các nội dung kinh tế phát sinh theo trình tự",
+      "B. Là tài liệu phản ánh nội dung của nghiệp vụ kinh tế phát sinh",
+      "C. Là tài liệu ghi lại các hoạt động kinh tế",
+      "D. Tất cả các tài liệu trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 272,
+    "cau_hoi": "Biên bản kế toán là gì ?",
+    "options": [
+      "A. Là hồ sơ dùng để ghi chép, tổng hợp các nội dung kinh tế phát sinh theo trình tự",
+      "B. Là tài liệu ghi nhận nội dung của nghiệp vụ kinh tế để làm căn cứ ghi số và hạch toán các nghiệp vụ",
+      "C. Là hồ sơ bảo cáo tài chính",
+      "D. Tất cả các tài liệu trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 273,
+    "cau_hoi": "Chứng từ kế toán là gì ?",
+    "options": [
+      "A. Là tài liệu phản ảnh nội dung của nghiệp vụ kinh tế phát sinh",
+      "B. Là tài liệu ghi lại các hoạt động kinh tế",
+      "C. Là tài liệu ghi lại các thông tin báo cáo",
+      "D. Tất cả các tài liệu trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 274,
+    "cau_hoi": "Trong kế toán, nghiệp vụ kinh tế phát sinh là gì ?",
+    "options": [
+      "A. Là hoạt động có tính kinh tế của tổ chức, doanh nghiệp",
+      "B. Là hoạt động tài chính của tổ chức, doanh nghiệp",
+      "C. Là sự kiện kinh tế làm thay đổi tài sản, nguồn vốn của tổ chức, doanh nghiệp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 275,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, hồ sơ kế toán nào sau đây không nên sử dụng để xác định các thuộc tính cho các lớp?",
+    "options": [
+      "A. Hợp đồng mua bán hàng hóa",
+      "B. Hóa đơn",
+      "C. Phiếu thu",
+      "D. Phiếu chỉ"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 276,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bản hàng, hồ sơ kế toán nào sau đây có thể không nên sử dụng để xác định các thuộc tính cho các lớp?",
+    "options": [
+      "A. Đơn đặt hàng",
+      "B. Hóa đơn",
+      "C. Phiếu thu",
+      "D. Phiếu chi"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 277,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu thu là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 278,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu chỉ là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 279,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, hồ sơ Biên bản kiểm kê là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 280,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, hồ sơ Báo cáo bán hàng là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 281,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bản hàng, Hóa đơn bản hàng là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 282,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu xuất kho là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Lớp",
+      "B. Thuộc tính của lớp",
+      "C. Phương thức của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 283,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Số nhật ký bán hàng là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 284,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Số chi tiết bán hàng là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 285,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Số chi tiết bán hàng là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 286,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Sổ nhật ký là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 287,
+    "cau_hoi": "Trong hệ thống thông tin kế toán vật tư, hồ sơ Biên bản kiểm kê là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 288,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, hồ sơ Báo cáo kết quả kinh doanh là căn cứ để xác định các đối tượng nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 289,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu chi là căn cứ để xác định các thành phần nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 290,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu thu là căn cứ để xác định các thành phần nào?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 291,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bản hàng, Phiếu xuất kho là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 292,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, căn cứ vào Phiếu Nhập kho có thể xác định các tác nhân nào sau đây?",
+    "options": [
+      "A. Người nhận hàng",
+      "B. Thủ kho",
+      "C. Người lập phiếu",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 293,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, căn cứ vào Phiếu Nhập kho có thể xác định các lớp nào sau đây?",
+    "options": [
+      "A. Người nhận hàng",
+      "B. Thủ kho",
+      "C. Hàng hóa",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 294,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, căn cứ vào Phiếu xuất kho có thể xác định các tác nhân nào sau đây?",
+    "options": [
+      "A. Người nhận hàng",
+      "B. Thủ kho",
+      "C. Người lập phiếu",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 295,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, căn cứ vào Phiếu xuất kho có thể xác định các lớp nào sau đây?",
+    "options": [
+      "A. Người nhận hàng",
+      "B. Thủ kho",
+      "C. Hàng hóa",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 296,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bản hàng, căn cứ vào Hóa đơn giá trị gia tăng có thể xác định các tác nhân nào sau đây?",
+    "options": [
+      "A. Người mua hàng",
+      "B. Người bán hàng",
+      "C. Kế toán viên",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 297,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bản hàng, căn cứ vào Hóa đơn giá trị gia tăng có thể xác định các lớp nào sau đây?",
+    "options": [
+      "A. Người mua hàng",
+      "B. Người bán hàng",
+      "C. Hàng hóa",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 298,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Hóa đơn bán hàng là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Ca sử dụng (Use case)",
+      "C. Mối quan hệ giữa Ca sử dụng (Use case) và tác nhân",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 299,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu chi là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 300,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu thu là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 301,
+    "cau_hoi": "Trong hệ thống thông tin kế toán vật tư, Biên bản kiểm kê là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 302,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, hồ sơ Báo cáo kết quả kinh doanh là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 303,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Phiếu xuất kho là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 304,
+    "cau_hoi": "Trong hệ thống thông tin kế toán bán hàng, Hóa đơn bán hàng là căn cứ để xác định các đối tượng nào trong các mô hình của UML?",
+    "options": [
+      "A. Tác nhân",
+      "B. Lớp",
+      "C. Thuộc tính của lớp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 305,
+    "cau_hoi": "Nội dung nào là yêu cầu của nghiệp vụ kế toán",
+    "options": [
+      "A. Hệ thống hồ sơ kế toán",
+      "B. Hình thức kế toán sử dụng",
+      "C. Quy tắc xử lý hồ sơ kế toán",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 306,
+    "cau_hoi": "Nội dung nào là yêu cầu của nghiệp vụ kế toán",
+    "options": [
+      "A. Hệ thống tài khoản sử dụng",
+      "B. Hình thức kế toán sử dụng",
+      "C. Quy tắc định khoản các nghiệp vụ kinh tế phát sinh",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 307,
+    "cau_hoi": "Nội dung khảo sát hiện trạng của hệ thống là gì?",
+    "options": [
+      "A. Thu thập chứng từ, số sách, báo cáo kế toán",
+      "B. Thu thập các quy định pháp luật, nội quy của tổ chức, doanh nghiệp về HTTT kế toán",
+      "C. Tìm hiểu các quy tắc xử lý dữ liệu kế toán",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 308,
+    "cau_hoi": "Mục tiêu quan trọng nhất của khảo sát hệ thống thông tn kế toán là gì?",
+    "options": [
+      "A. Tìm hiểu nghiệp vụ kế toán",
+      "B. Tìm hiểu yêu cầu của người dùng HTTT kế toán",
+      "C. Tìm hiểu các yêu cầu về môi trường hoạt động của TTTT kế toán",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 309,
+    "cau_hoi": "Nội dung khảo sát hiện trạng của hệ thống là gì?",
+    "options": [
+      "A. Tìm hiểu môi trường của hệ thống",
+      "B. Thu thập hồ sơ, thông tin về hệ thống",
+      "C. Tìm hiểu các quy tắc xử lý dữ liệu, thông tin của hệ thống",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 310,
+    "cau_hoi": "Mục tiêu của khảo sát hệ thống thông tin kế toán là gì",
+    "options": [
+      "A. Tìm hiểu yêu cầu nghiệp vụ kế toán",
+      "B. Tìm hiểu yêu cầu của người dùng",
+      "C. Tìm hiểu các yêu cầu về môi trường hoạt động của hệ thống kế toán",
+      "D. Tất cả các phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 311,
+    "cau_hoi": "Yếu tố nào dưới đây KHÔNG phải là mục tiêu của khảo sát hệ thống?",
+    "options": [
+      "A. Xác định các rủi ro tiềm ẩn của hệ thống hiện tại",
+      "B. Tìm hiểu nhu cầu nghiệp vụ của doanh nghiệp",
+      "C. Đưa ra giải pháp tài chính cho doanh nghiệp",
+      "D. Xác định các chức năng cần thiết của hệ thống mới"
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "id": 312,
+    "cau_hoi": "Vai trò của khảo sát hệ thống đối với quá trình phát triển HTTT?",
+    "options": [
+      "A. Ước lượng các nguồn lực phát triển hệ thống",
+      "B. Giúp cho các nhà phân tích tiến hành hoạt động phân tích hệ thống",
+      "C. Xác định vấn đề của hệ thống cũ và đề xuất giải pháp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 313,
+    "cau_hoi": "Trong khảo sát hệ thống, việc phát hiện điểm yếu của hệ thống cũ nhằm",
+    "options": [
+      "A. Làm căn cứ đề xuất cải tiến hệ thống",
+      "B. Làm căn cứ đề xuất phát triển hệ thống",
+      "C. Làm căn cứ đề phân tích hệ thống",
+      "D. Làm căn cứ thiết kế hệ thống"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 314,
+    "cau_hoi": "Nội dung đầu tiên khi khảo sát hiện trạng HTTT kế toán thường là",
+    "options": [
+      "A. Khảo sát tài liệu",
+      "B. Xác định phạm vi và mục tiêu khảo sát",
+      "C. Thiết kế hệ thống mới",
+      "D. Kiểm thử hệ thống"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 315,
+    "cau_hoi": "Mục tiêu chính của khảo sát hiện trạng trong phát triển HTTT kế toán là",
+    "options": [
+      "A. Thu thập dữ liệu đầu vào",
+      "B. Tìm hiểu các yêu cầu, vấn đề, nhu cầu và quy trình hiện tại",
+      "C. Viết tài liệu mô tả hệ thống",
+      "D. Lập trình thử nghiệm"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 316,
+    "cau_hoi": "Mục tiêu chính của giai đoạn khảo sát hiện trạng là gì?",
+    "options": [
+      "A. Xác định chi phí cho phát triển hệ thống mới",
+      "B. Tìm hiểu yêu cầu nghiệp vụ của hệ thống",
+      "C. Xác định các nguồn lực để phát triển dự án",
+      "D. Xây dựng kế hoạch phát triển hệ thống dài hạn"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 317,
+    "cau_hoi": "Mục đích của giai đoạn kiểm chứng HTTT là gì ?",
+    "options": [
+      "A. Phát hiện các lỗi về nghiệp vụ",
+      "B. Phát hiện các lỗi lập trình",
+      "C. Phát hiện các lỗi thiết kế",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "id": 318,
+    "cau_hoi": "Đâu là đặc tính của HTTT kế toán?",
+    "options": [
+      "A. Cung cấp thông tin nhằm hỗ trợ hoạt động quản lý tài sản của tổ chức, doanh nghiệp",
+      "B. Cung cấp thông tin nhằm hỗ trợ hoạt động quản lý của tổ chức, doanh nghiệp",
+      "C. Cung cấp thông tin nhằm hỗ trợ hoạt động quản lý nhân sự của tổ chức, doanh nghiệp",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 319,
+    "cau_hoi": "Giai đoạn nào trong phát triển hệ thống giúp tìm hiểu nhu cầu và quy trình nghiệp vụ của khách hàng?",
+    "options": [
+      "A. Khảo sát",
+      "B. Bảo trì",
+      "C. Thiết kế",
+      "D. Thực hiện"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 320,
+    "cau_hoi": "Tính điều khiển của hệ thống là gì?",
+    "options": [
+      "A. Là cơ chế kiểm soát và điều hành các phần tử để đạt được mục tiêu",
+      "B. Là khả năng tự vận hành mà không cần sự can thiệp của con người",
+      "C. Là một tính năng chỉ có trong các hệ thống tự động",
+      "D. Không liên quan đến việc ra quyết định"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 321,
+    "cau_hoi": "Trong mô hình thác nước, giai đoạn nào giúp xác định các yêu cầu của khách hàng?",
+    "options": [
+      "A. Khảo sát",
+      "B. Thiết kế",
+      "C. Thực hiện",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 322,
+    "cau_hoi": "Giai đoạn nào trong mô hình phát triển hệ thống là để xác định nhu cầu về hệ thống mới?",
+    "options": [
+      "A. Khảo sát",
+      "B. Phân tích",
+      "C. Thiết kế",
+      "D. Bảo trì"
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 323,
+    "cau_hoi": "Nên ứng dụng mô hình nào trong trường hợp dễ xác định rõ yêu cầu?",
+    "options": [
+      "A. Xoắn ốc (Spiral Model)",
+      "B. Thác nước (Waterfall Model)",
+      "C. ",
+      "D. "
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 324,
+    "cau_hoi": "Nên ứng dụng mô hình nào trong trường hợp không xác định rõ yêu cầu?",
+    "options": [
+      "A. Xoắn ốc (Spiral Model)",
+      "B. Thác nước (Waterfall Model)",
+      "C. ",
+      "D. "
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 325,
+    "cau_hoi": "Nên ứng dụng mô hình nào trong trường hợp các yêu cầu hệ thống thay đổi liên tục?",
+    "options": [
+      "A. Xoắn ốc (Spiral Model)",
+      "B. Thác nước (Waterfall Model)",
+      "C. ",
+      "D. "
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "id": 326,
+    "cau_hoi": "Mô hình xoắn ốc (Spiral Model) được kết thúc quá trình phát triển phần mềm khi nào ?",
+    "options": [
+      "A. Khi xuất hiện rủi ro",
+      "B. Thỏa mãn yêu cầu người dùng",
+      "C. Xác định các chức năng của hệ thống",
+      "D. Cả ba phương án trên"
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "id": 327,
+    "cau_hoi": "Mô hình phát tiến hệ thống nào có thực hiện đánh giá rủi ro ?",
+    "options": [
+      "A. Xoắn ốc (Spiral Model)",
+      "B. Thác nước (Waterfall Model)",
+      "C. ",
+      "D. "
+    ],
+    "dap_an_dung": "A"
+  }
+]
